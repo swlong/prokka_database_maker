@@ -59,7 +59,11 @@ The easy way to install python is to use Anaconda.  This will download a lot of 
 The slightly more difficult way is to use Miniconda which is like Anaconda but doesn't include the stuff you don't need.  Go to http://conda.pydata.org/miniconda.html and follow the instructions for pythonn 3.5 for linux.  After installing go to the command line and type:
 conda install pandas
 
-If you don't want another package manager and just want python you can download it at https://www.python.org/downloads.  Install pandas by typing:
+If you don't want another package manager and just want python you can download it at https://www.python.org/downloads.  
+
+Installing pandas:
+Using pip:
 pip install pandas
+
 It has some dependencies.  pip install should help with that.
 
